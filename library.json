@@ -1,4 +1,6 @@
+{
 "repositories" : [
       { "name" : "demo" , "url" : "https://github.com/pop-up/demo.git" },
       { "name" : "demo2" , "url" : "https://github.com/pop-up/demo2.git" }
 ]
+}
